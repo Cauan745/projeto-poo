@@ -1,0 +1,19 @@
+{
+  "perguntas": [
+    {
+      "texto": "Qual o resultado de 2 + 2?",
+      "opcoes": ["3", "4", "5", "22"],
+      "indiceRespostaCorreta": 1
+    },
+    {
+      "texto": "Qual o princípio da POO que representa uma relação 'é-um'?",
+      "opcoes": ["Encapsulamento", "Polimorfismo", "Herança", "Abstração"],
+      "indiceRespostaCorreta": 2
+    },
+    {
+      "texto": "Em Java, qual palavra-chave é usada para garantir que um método de uma superclasse seja executado?",
+      "opcoes": ["this", "new", "super", "extends"],
+      "indiceRespostaCorreta": 2
+    }
+  ]
+}
